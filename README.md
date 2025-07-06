@@ -1,1 +1,1 @@
-# Market-Analyser
+pip install yfinance pandas numpy
